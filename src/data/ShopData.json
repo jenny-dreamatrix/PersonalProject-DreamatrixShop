@@ -1,0 +1,18 @@
+[
+    {
+        "id": 0 ,
+        "name": "xyz ",
+        "kategorie" : "ketten",
+        "unterkategorie": "mini",
+        "symbol": "matrix",
+        "symbol-bedeutung": "",
+        "beschreibung": "",
+        "hinweise":"",
+        "preis": 85,
+        "datum": "05-2022",
+        "material": "messing",
+        "bilder": ""
+    }
+
+
+]

@@ -1,0 +1,15 @@
+.background-img-header {
+  height: 100%;
+  background: url(../../public/header.jpeg) no-repeat center;
+  background-size: cover;
+  animation: pulse 3s ease-in-out infinite alternate;
+}
+
+@keyframes pulse {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(1.1);
+  }
+}

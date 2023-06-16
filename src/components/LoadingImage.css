@@ -1,0 +1,25 @@
+.loading-wrapper {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--bg-color);
+}
+
+.loading-img {
+  width: 20rem;
+  height: 20rem;
+  border-radius: 40rem;
+  background: url(../../public/symbole_dreamatrix.jpeg) no-repeat center;
+  background-size: 120%;
+  animation: rotation 2s infinite;
+}
+
+@keyframes rotation {
+  0% {
+    transform: rotate(0);
+  }
+  100% {
+    transform: rotate(180deg);
+  }
+}

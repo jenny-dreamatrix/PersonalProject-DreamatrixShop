@@ -1,0 +1,8 @@
+.logo {
+  width: 15rem;
+  height: 15rem;
+  background: url(../../public/symbole_dreamatrix_neu-01.jpeg) no-repeat center;
+  background-size: 120%;
+  border-radius: 10rem;
+  margin: 0 auto;
+}

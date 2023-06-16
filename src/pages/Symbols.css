@@ -1,0 +1,39 @@
+.symbols-sec {
+  background-color: var(--accent-color-gold-transparent);
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem 5rem;
+  margin: -6rem 0 3rem 0;
+}
+
+.symbols-small {
+  height: 10rem;
+  width: 10rem;
+  border-radius: 10rem;
+  border: 0.1rem solid var(--accent-color-gold);
+}
+
+.symbols-small:nth-of-type(1) {
+  background: url("./symbole_creativity.jpeg") no-repeat center;
+  background-size: 140%;
+}
+.symbols-small:nth-of-type(2) {
+  background: url("./symbole_matrix.jpeg") no-repeat center;
+  background-size: 140%;
+}
+.symbols-small:nth-of-type(3) {
+  background: url("./symbole_individuality.jpeg") no-repeat center;
+  background-size: 140%;
+}
+.symbols-small:nth-of-type(4) {
+  background: url("./symbole_gratitude.jpeg") no-repeat center;
+  background-size: 140%;
+}
+.symbols-small:nth-of-type(5) {
+  background: url("./symbole_dream.jpeg") no-repeat center;
+  background-size: 140%;
+}
+.symbols-small:nth-of-type(6) {
+  background: url("./symbole_balance.jpeg") no-repeat center;
+  background-size: 140%;
+}

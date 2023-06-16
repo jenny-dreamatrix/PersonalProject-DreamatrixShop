@@ -1,0 +1,21 @@
+.welcome-sec {
+  height: 35rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 5rem 0 0 0;
+  margin: 0 0 var(--space-down) 0;
+}
+
+.welcome-sec p {
+  width: 100rem;
+  text-align: center;
+}
+
+.biggest-img-sec {
+  height: 90rem;
+  background: url(../../public/home_01.jpg) no-repeat center;
+  background-size: cover;
+  display: flex;
+  margin: 0 0 var(--space-down) 0;
+}

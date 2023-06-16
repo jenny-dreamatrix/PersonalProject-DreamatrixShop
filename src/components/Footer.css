@@ -1,0 +1,10 @@
+footer {
+  height: 25rem;
+  background-color: var(--accent-color-gold);
+  border-top: 0.1rem solid var(--accent-color-gold);
+  padding: 2rem var(--space-out);
+}
+
+footer p {
+  color: var(--text-color);
+}

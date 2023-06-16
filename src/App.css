@@ -1,0 +1,99 @@
+@font-face {
+  font-family: RobotoCondensed-Bold;
+  src: url(../src/fonts/RobotoCondensed-Bold.ttf);
+}
+@font-face {
+  font-family: RobotoCondensed-Regular;
+  src: url(../src/fonts/RobotoCondensed-Regular.ttf);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --text-color: #dadada;
+  --bg-color: #1f1f20;
+  --color-mid: #6f6f6f;
+  /* --accent-color-green: #4b4f3eff; */
+  --accent-color-gold: #635732ff;
+  --accent-color-gold-transparent: rgba(99, 87, 50, 0.636);
+  --accent-color-silver: #c5c2b6ff;
+  --accent-color-gold-light: #867d57ff;
+  --space-out: 10rem;
+  --space-down: 15rem;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+h1 {
+  font-family: "RobotoCondensed-Regular";
+  font-size: 4rem;
+  color: var(--accent-color-silver);
+  text-align: center;
+  margin: 0 0 3rem 0;
+}
+
+h2 {
+  font-family: "RobotoCondensed-Bold";
+  font-size: 2.8rem;
+  color: var(--text-color);
+  margin: 0 0 2rem 0;
+}
+
+p {
+  line-height: 3.8rem;
+  margin: 0 0 5rem 0;
+}
+
+label,
+input,
+p {
+  font-family: "RobotoCondensed-Regular";
+  font-size: 2rem;
+  color: var(--color-mid);
+}
+
+a {
+  width: 15rem;
+  font-family: "RobotoCondensed-Regular";
+  font-size: 2rem;
+  color: var(--color-mid);
+  text-decoration: none;
+  border-left: 0.05rem solid var(--color-mid);
+  border-right: 0.05rem solid var(--color-mid);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 0.3s ease-in-out;
+  margin: 1rem 0;
+}
+a:hover {
+  color: var(--text-color);
+}
+
+span {
+  color: var(--accent-color-silver);
+}
+
+figcaption {
+  font-family: "RobotoCondensed-Regular";
+  font-size: 2rem;
+  color: var(--accent-color-gold-light);
+  margin: 0 0 1rem 0;
+}
+
+::selection {
+  background-color: var(--accent-color-gold);
+  color: var(--text-color);
+}
+
+main {
+  min-height: 150vh;
+  background-color: var(--bg-color);
+  padding: 6rem 0 0 0;
+}

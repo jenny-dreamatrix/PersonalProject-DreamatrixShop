@@ -1,0 +1,15 @@
+.about-sec {
+  text-align: center;
+  padding: 0 var(--space-out) 10rem var(--space-out);
+}
+
+.about-sec figure {
+  display: flex;
+  justify-content: space-evenly;
+  gap: 2rem;
+  overflow: hidden;
+}
+
+.about-sec img {
+  width: 30%;
+}

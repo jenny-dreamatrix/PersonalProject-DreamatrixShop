@@ -1,0 +1,15 @@
+button {
+  width: 15rem;
+  height: 5rem;
+  font-family: "RobotoCondensed-Regular";
+  font-size: 2rem;
+  color: var(--text-color);
+  background-color: var(--accent-color-gold);
+  border-radius: 3rem;
+  border: 0.05rem solid var(--color-mid);
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+}
+button:hover {
+  background-color: var(--accent-color-gold-light);
+}

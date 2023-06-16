@@ -1,0 +1,23 @@
+[
+    {
+        "id": 0,
+        "img": "./home_02.jpg",
+        "alt": "alttext",
+        "titel": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta animi aut ut?",
+        "inhalt": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio dolorum eaque fugiat ab recusandae est blanditiis harum molestiae nulla corporis, ratione, maiores assumenda. Quibusdam blanditiis rerum expedita modi, vel, illo similique repellendus quos tenetur et quaerat doloremque aspernatur facere neque!"
+    },
+    {
+        "id": 1,
+        "img": "./home_03.jpg",
+        "alt": "alttext",
+        "titel": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta animi aut ut?",
+        "inhalt": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio dolorum eaque fugiat ab recusandae est blanditiis harum molestiae nulla corporis, ratione, maiores assumenda. Quibusdam blanditiis rerum expedita modi, vel, illo similique repellendus quos tenetur et quaerat doloremque aspernatur facere neque!"
+    },
+    {
+        "id": 2,
+        "img": "./home_04.jpg",
+        "alt": "alttext",
+        "titel": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta animi aut ut?",
+        "inhalt": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio dolorum eaque fugiat ab recusandae est blanditiis harum molestiae nulla corporis, ratione, maiores assumenda. Quibusdam blanditiis rerum expedita modi, vel, illo similique repellendus quos tenetur et quaerat doloremque aspernatur facere neque!"
+    }
+]
