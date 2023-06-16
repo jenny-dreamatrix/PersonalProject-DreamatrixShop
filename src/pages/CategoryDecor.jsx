@@ -1,19 +1,18 @@
+import BackLink from "../components/BackLink";
 import Footer from "../components/Footer";
 import Nav from "../components/Nav";
-import ShopCategories from "../components/ShopCategories";
 
-const Shop = () => {
+const CategoryDecor = () => {
     return ( 
         <>
         <Nav/>
         <main>
-            <h1>Shop</h1>
-            <ShopCategories/>
+            <BackLink/>
+            <h1>Decor</h1>
         </main>
         <Footer/>
-
         </>
      );
 }
  
-export default Shop;
+export default CategoryDecor;

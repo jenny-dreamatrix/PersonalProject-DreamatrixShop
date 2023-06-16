@@ -1,0 +1,21 @@
+[
+    {
+        "id": 0 ,
+        "name": "Further Information about brass items",
+        "description": ["Like many other metals, brass usually changes its color over time due to oxidation in contact with air and water. It becomes darker and can also get a greenish shape, which is a natural process and does not mean minor quality of the material. This is something you should be aware of when you are buying jewellery that is not made of gold, platinum or stainless steel.",
+        "Every item is crafted with lots of love and sensibility. To prevent my creations from changing color, I treated the pieces with an invisible coating that protects the metal from oxidation. Regardless, it is possible that the coating fades under certain external influences.",
+        "I would recommend to keep the pendant clean and dry. Do not wear it while showering, swimming or during sports. Also remove it before you go to sleep. Store it in the small bag with the silica gel that comes with your order."],
+        "material": "Brass"
+    },
+    {
+        "id": 1 ,
+        "name": "Shipping Information",
+        "description": ["All orders to Germany are shipped via DHL with tracking.",
+        "International shipment is made with DHL as well, but in default option WITHOUT tracking due to the high costs.",
+        "You can choose the additional option of tracking/insurance for your country for an extra fee if you want to.",
+        "PLEASE NOTE: I can not refund orders that got lost on their way to you.",
+        "Due to COVID-19 shipping times can take longer than usual or, in some cases, might not be possible. Please check on the website down below whether the shipping to your country is feasible without limitations.",
+        "https://www.dhl.de/en/privatkunden/kampagnenseiten/coronavirus.html#international"],
+        "material": "Brass"
+    }
+]

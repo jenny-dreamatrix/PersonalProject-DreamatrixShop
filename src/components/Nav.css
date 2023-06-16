@@ -9,3 +9,12 @@ nav {
   z-index: 1;
   top: 0;
 }
+
+nav a {
+  border-left: 0.05rem solid var(--color-mid);
+  border-right: 0.05rem solid var(--color-mid);
+}
+
+.active {
+  color: var(--accent-color-silver);
+}

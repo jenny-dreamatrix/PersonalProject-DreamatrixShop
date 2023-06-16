@@ -1,0 +1,50 @@
+[
+    {
+        "id": 0 ,
+        "name": "Basic Necklace with Geometric Brass Pendant called 'Dreamatrix'",
+        "category" : "Necklaces",
+        "subcategory": ["Basic", "Long"],
+        "necklace-length": "50cm",
+        "symbol": [
+            { "name": "Dreamatrix" },
+            { "meaning": "" }, 
+            { "size": [
+                {"pendant-width": "6,3cm"}, {"pendant-height": "6,3cm"}
+                ]
+        }],
+        "description": ["This is an adjustable black necklace with a geometric brass pendant. It can be worn as a short or as a long necklace. The thread is made of cotton.", 
+        "This item is made to order. Your necklace will look simular to the one pictured. Yet every handmade creation is unique and can vary a little from another.",
+        "The pendant is designed by myself and it's called DREAMATRIX."],
+        "tags": ["geometric", "pendant", "brass", "lasercut", "symbol", "emblem", "necklace", "goa", "psychedelic", "trippy", "bold", "gothic", "witchy", "occult", "mystical"],
+        "info": "Brass",
+        "price": 55,
+        "date": "05-2022",
+        "material": "Brass",
+        "images": ""
+    },
+    {
+        "id": 1 ,
+        "name": "Black Macrame Necklace with Lava Rock Beads and Antique Geometric Brass Pendant called 'Self-Awareness'",
+        "category" : "Necklaces",
+        "subcategory": ["Basic", "Long"],
+        "necklace-length": "50cm",
+        "symbol": [
+            { "name": "Dreamatrix" },
+            { "meaning": "" }, 
+            { "size": [
+                {"pendant-width": "6,3cm"}, {"pendant-height": "6,3cm"}
+                ]
+        }],
+        "description": ["This is an adjustable black necklace with a geometric brass pendant. It can be worn as a short or as a long necklace. The thread is made of cotton.", 
+        "This item is made to order. Your necklace will look simular to the one pictured. Yet every handmade creation is unique and can vary a little from another.",
+        "The pendant is designed by myself and it's called DREAMATRIX."],
+        "tags": ["geometric", "pendant", "brass", "lasercut", "symbol", "emblem", "necklace", "goa", "psychedelic", "trippy", "bold", "gothic", "witchy", "occult", "mystical"],
+        "info": "Brass",
+        "price": 55,
+        "date": "05-2022",
+        "material": "Brass",
+        "images": ""
+    }
+
+
+]

@@ -1,14 +1,14 @@
-import { Link } from "react-router-dom";
 import './Nav.css'
+import { NavLink } from "react-router-dom";
 
 const Nav = () => {
     return ( 
         <nav>
-            <Link to='/' >Home</Link>
-            <Link to='/shop' >Shop</Link>
-            <Link to='/about' >About</Link>
-            <Link to='/symbols' >Symbols</Link>
-            <Link to='/contact' >Contact</Link>
+            <NavLink to='/' >Home</NavLink>
+            <NavLink to='/shop' >Shop</NavLink>
+            <NavLink to='/about' >About</NavLink>
+            <NavLink to='/symbols' >Symbols</NavLink>
+            <NavLink to='/contact' >Contact</NavLink>
         </nav>
      );
 }

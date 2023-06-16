@@ -1,3 +1,7 @@
+.contact p {
+  text-align: center;
+}
+
 form {
   width: 80rem;
   margin: 0 auto;
@@ -17,20 +21,15 @@ label {
 input[type="text"],
 input[type="textarea"] {
   color: var(--text-color);
-  background-color: var(--accent-color-gold);
+  /* background-color: var(--accent-color-gold-light); */
   border: none;
-  border-radius: 1rem;
+  /* border-radius: 1rem; */
   padding: 1rem;
   margin: 0 0 2rem 0;
+  background-color: var(--bg-color);
+  border: 0.1rem solid var(--accent-color-gold);
 }
 
 input[type="textarea"] {
   height: 10rem;
-}
-
-input[type="submit"] {
-  border: none;
-  border-radius: 1rem;
-  background-color: var(--accent-color-gold-light);
-  color: var(--text-color);
 }

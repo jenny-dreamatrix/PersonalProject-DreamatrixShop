@@ -1,0 +1,13 @@
+.back-link {
+  height: 5rem;
+  width: 5rem;
+  color: var(--accent-color-silver);
+  border: 0.1rem solid var(--accent-color-gold);
+  border-radius: 3rem;
+  position: absolute;
+  margin: 0 0 0 3rem;
+}
+.back-link:hover {
+  color: var(--text-color);
+  transform: scale(1.1);
+}
